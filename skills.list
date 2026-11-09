@@ -1,0 +1,60 @@
+👋  tarhouns @ C:\Users\tarhouns\.agents\skills
+> npx skills list -g
+⚠ Skipped C:\Users\tarhouns\.agents\skills\comments-documentation-review\SKILL.md — missing required frontmatter field(s): name, description
+Global Skills
+
+Code Craftsmanship
+  refactoring-patterns ~\.agents\skills\refactoring-patterns
+    Agents: Cline, Codex, GitHub Copilot, OpenCode, Pi +1 more  Source: wondelai/skills
+
+Mattpocock Skills
+  improve-codebase-architecture ~\.agents\skills\improve-codebase-architecture
+    Agents: Cline, Codex, GitHub Copilot, OpenCode, Pi +1 more  Source: mattpocock/skills
+
+General
+  acquire-codebase-knowledge          ~\.agents\skills\acquire-codebase-knowledge
+    Agents: Claude Code, Cline, Codex, Continue, GitHub Copilot +3 more  Source: github/awesome-copilot
+  brainstorming                       ~\.agents\skills\brainstorming
+    Agents: Claude Code, Cline, Codex, GitHub Copilot, OpenCode +2 more  Source: obra/superpowers
+  clean-code                          ~\.agents\skills\clean-code
+    Agents: Claude Code, Cline, Codex, Continue, GitHub Copilot +3 more  Source: sickn33/antigravity-awesome-skills
+  codebase-documenter                 ~\.agents\skills\codebase-documenter
+    Agents: Cline, Codex, GitHub Copilot, OpenCode, Pi +1 more  Source: ailabs-393/ai-labs-claude-skills
+  diagnosing-superpowers              ~\.agents\skills\diagnosing-superpowers
+    Agents: Claude Code, Cline, Codex, GitHub Copilot, OpenCode +2 more  Source: obra/superpowers
+  dispatching-parallel-agents         ~\.agents\skills\dispatching-parallel-agents
+    Agents: Claude Code, Cline, Codex, GitHub Copilot, OpenCode +2 more  Source: obra/superpowers
+  executing-plans                     ~\.agents\skills\executing-plans
+    Agents: Claude Code, Cline, Codex, GitHub Copilot, OpenCode +2 more  Source: obra/superpowers
+  find-skills                         ~\.agents\skills\find-skills
+    Agents: Claude Code, Cline, Codex, Continue, GitHub Copilot +3 more  Source: vercel-labs/skills
+  finishing-a-development-branch      ~\.agents\skills\finishing-a-development-branch
+    Agents: Claude Code, Cline, Codex, GitHub Copilot, OpenCode +2 more  Source: obra/superpowers
+  incremental-implementation          ~\.agents\skills\incremental-implementation
+    Agents: Claude Code, Cline, Codex, Continue, GitHub Copilot +3 more  Source: addyosmani/agent-skills
+  python-behavior-preserving-refactor ~\.agents\skills\python-behavior-preserving-refactor
+    Agents: Cline, Codex, GitHub Copilot, OpenCode, Pi +1 more  Source: untracked
+  receiving-code-review               ~\.agents\skills\receiving-code-review
+    Agents: Claude Code, Cline, Codex, GitHub Copilot, OpenCode +2 more  Source: obra/superpowers
+  refactor                            ~\.agents\skills\refactor
+    Agents: Cline, Codex, GitHub Copilot, OpenCode, Pi +1 more  Source: github/awesome-copilot
+  requesting-code-review              ~\.agents\skills\requesting-code-review
+    Agents: Claude Code, Cline, Codex, GitHub Copilot, OpenCode +2 more  Source: obra/superpowers
+  subagent-driven-development         ~\.agents\skills\subagent-driven-development
+    Agents: Claude Code, Cline, Codex, GitHub Copilot, OpenCode +2 more  Source: obra/superpowers
+  systematic-debugging                ~\.agents\skills\systematic-debugging
+    Agents: Claude Code, Cline, Codex, GitHub Copilot, OpenCode +2 more  Source: obra/superpowers
+  test-driven-development             ~\.agents\skills\test-driven-development
+    Agents: Claude Code, Cline, Codex, GitHub Copilot, OpenCode +2 more  Source: obra/superpowers
+  using-git-worktrees                 ~\.agents\skills\using-git-worktrees
+    Agents: Claude Code, Cline, Codex, GitHub Copilot, OpenCode +2 more  Source: obra/superpowers
+  using-superpowers                   ~\.agents\skills\using-superpowers
+    Agents: Claude Code, Cline, Codex, GitHub Copilot, OpenCode +2 more  Source: obra/superpowers
+  verification-before-completion      ~\.agents\skills\verification-before-completion
+    Agents: Claude Code, Cline, Codex, GitHub Copilot, OpenCode +2 more  Source: obra/superpowers
+  writing-plans                       ~\.agents\skills\writing-plans
+    Agents: Claude Code, Cline, Codex, GitHub Copilot, OpenCode +2 more  Source: obra/superpowers
+  writing-skills                      ~\.agents\skills\writing-skills
+    Agents: Claude Code, Cline, Codex, GitHub Copilot, OpenCode +2 more  Source: obra/superpowers
+  fastapi-python                      ~\.copilot\skills\fastapi-python
+    Agents: GitHub Copilot  Source: untracked
