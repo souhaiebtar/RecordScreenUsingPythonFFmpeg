@@ -1,8 +1,10 @@
 cffi==2.0.0
 customtkinter==5.2.2
 darkdetect==0.8.0
+mss==10.2.0
 numpy==2.4.4
 packaging==26.2
+Pillow==13.0.0
 pycparser==3.0
 screeninfo==0.8.1
 SoundCard==0.4.6
